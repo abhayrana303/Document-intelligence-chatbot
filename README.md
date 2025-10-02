@@ -55,6 +55,7 @@ chatbot-project
    - Start the backend server:
      ```
      python src/backend/app.py
+     uvicorn main:app --reload
      ```
 
 5. **Run the Frontend:**
