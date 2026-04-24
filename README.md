@@ -24,7 +24,7 @@ It uses Retrieval-Augmented Generation (RAG) to provide accurate, context-aware 
 * Backend: Flask (Python)
 * Vector DB: ChromaDB
 * Embeddings: OpenAI / HuggingFace
-* LLM: GPT / LLM API
+* LLM: Groq API
 
 ---
 
